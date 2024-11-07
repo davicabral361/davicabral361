@@ -1,5 +1,10 @@
-## Davi de Oliveira Cabral 👋
+## Davi de Oliveira Cabral
+Estudando de Análise de Desenvolvimento de Sistemas na UNICID
 
+## Contatos:
+<div>
+  <a href="www.linkedin.com/in/davi-de-oliveira-cabral-6bb8a7254" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+</div>
 <!--
 **davicabral361/davicabral361** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
