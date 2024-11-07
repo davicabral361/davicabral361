@@ -9,7 +9,7 @@ Formado em Desenvolvimento de Sistemas na ETEC de Guaianases
 </div>
 
 ## Tecnologias e Ferramentas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img loading "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <!--
 **davicabral361/davicabral361** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
